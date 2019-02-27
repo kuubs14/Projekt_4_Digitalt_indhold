@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+header {
+    margin: 0px;
+    width: 100%;
+}
+
+.logo {
+    margin: 2% 15% 0% 3%;
+    float: left;
+    
+}
+
+.topbar {
+    width: 100%;
+    height: auto;
+    background-color: #6c83ac;
+    float: left;
+}
+
+#tlfsymb {
+    margin-right: 10%;
+    float: left;
+    clear: right;
+}
+
+#chatsymb {
+    margin-top: 1%;
+    margin-right: 10%;
+    float: left;
+    clear: right;
+}
+
+#profsymb {
+    margin-top: 1%;
+    margin-right: 10%;
+    float: left;
+    clear: right;
+}
+
+.topsymbol {
+    float: left;
+    display: block;
+    clear: right;
+    margin-right: 10%;
+}
+
+a {
+    color: #fff;
+}
+
+nav {
+    text-align: center;
+    width: 70%;
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 30%;
+    display: block;
+    float: left;
+    background-color: #ac1925;
+    color: #fff;
+    border-top: 2px solid #000;
+}
+
+aside {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    background-color: #6c83ac;
+    width: 30%;
+    float: left;
+    margin-top: -4.2%;
+    border-top: 2px solid #000;
+}
+
+#liste {
+    text-align: justify;
+    margin-left: 10%;
+}
+
+section {
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    margin-left: 1.75%;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    clear: left;
+}
