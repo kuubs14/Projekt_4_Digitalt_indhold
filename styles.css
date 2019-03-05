@@ -146,3 +146,25 @@ footer {
     width: 120px;
     height: 100px;
 }
+
+.main404 {
+    margin-bottom: 29.2%;
+    margin-left: 2%;
+}
+
+.h1404 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+.h2404 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 2.5em;
+    color: #000;
+}
+
+#linktilforside {
+    color: #00f;
+}
